@@ -23,4 +23,4 @@ for i in range(n):
     Mfd = 0
     Mfd = Mfd + f[i] * d
 
-print("The Mean for continuous:", A + (Mfd / val) * c)
+print("The Mean for continuous:",A + (Mfd / val) * c)
